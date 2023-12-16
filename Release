@@ -1,0 +1,12 @@
+Origin: Dylan's repo
+Label: Dylan's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My repo for my themes and tweaks and experiment things.
+
+SHA256:
+ 3b28eef55dda57a8aa59d0b6f6b461a7bceb361589d273364350d2a20555c22b 596 Packages.bz2
+ 4e1b885aa24694f54e0a90a793a25bd62cbda5b3d3b4fd58b8f55df4ca854f3c 588 Packages.xz
